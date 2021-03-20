@@ -1,0 +1,55 @@
+table{
+	margin-top:30px;
+	
+}   
+
+table th {
+	background:black;
+	color:white;
+}
+table tr{
+	background:pink;
+}
+
+.nav{
+	background:grey;
+	color:white;
+	height:120px;
+	width:1350px;
+	
+}
+.logo{
+	float:left;
+	
+}
+.ul{
+	float:right;
+	margin-right:100px;
+	}
+	
+	a{
+		text-decoration:none;
+		color:white;
+	}
+	a:hover{
+		color:blue;
+	}
+	h1{
+		color:gold;
+		text-align:center;
+		
+	}h3{
+		color:green;
+		text-align:center;
+		
+	}
+	.menu li{
+		display:inline;
+		margin-left:50px;
+		
+		}
+	.menu a {
+		color: brown;
+	}
+	
+	
